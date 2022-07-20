@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281aaf79-3d4f-4332-b817-3a2d315bd764" name="Changes" comment="Kata03">
-      <change afterPath="$PROJECT_DIR$/src/BreakCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BreakCamelCase">
+  <component name="RunManager" selected="Application.TicTacToeChecker">
     <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakCamelCase" />
       <module name="CodeWars" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheFreewayGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheFreewayGame" />
+    <configuration name="TicTacToeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeChecker" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToeChecker" />
         <item itemvalue="Application.BreakCamelCase" />
         <item itemvalue="Application.PersistentBugger" />
         <item itemvalue="Application.Collatz" />
         <item itemvalue="Application.YoureASquare" />
-        <item itemvalue="Application.TheFreewayGame" />
       </list>
     </recent_temporary>
   </component>
@@ -164,8 +164,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BreakCamelCase.java</url>
-          <line>11</line>
+          <line>10</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TicTacToeChecker.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TicTacToeChecker.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281aaf79-3d4f-4332-b817-3a2d315bd764" name="Changes" comment="Kata03">
-      <change afterPath="$PROJECT_DIR$/src/PersistentBugger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakCamelCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.PersistentBugger">
+}]]></component>
+  <component name="RunManager" selected="Application.BreakCamelCase">
+    <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakCamelCase" />
+      <module name="CodeWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collatz" />
       <module name="CodeWars" />
@@ -45,13 +53,6 @@
     </configuration>
     <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
-      <module name="CodeWars" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SplitStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitStrings" />
       <module name="CodeWars" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreakCamelCase" />
         <item itemvalue="Application.PersistentBugger" />
         <item itemvalue="Application.Collatz" />
         <item itemvalue="Application.YoureASquare" />
         <item itemvalue="Application.TheFreewayGame" />
-        <item itemvalue="Application.SplitStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +161,11 @@
           <url>file://$PROJECT_DIR$/src/PersistentBugger.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BreakCamelCase.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

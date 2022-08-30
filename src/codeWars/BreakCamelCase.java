@@ -1,3 +1,4 @@
+package codeWars;
 public class BreakCamelCase {
 
     public static void main(String[] args) {

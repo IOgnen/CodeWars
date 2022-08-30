@@ -1,3 +1,4 @@
+package codeWars;
 public class TicTacToeChecker {
 
     public static void main(String[] args) {

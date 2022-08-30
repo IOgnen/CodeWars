@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281aaf79-3d4f-4332-b817-3a2d315bd764" name="Changes" comment="Kata03">
-      <change afterPath="$PROJECT_DIR$/src/TicTacToeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookCollection/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookCollection/BookCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookCollection/BooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carCollection/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carCollection/CarCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carCollection/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeWars/DifferenceBetweenTwoCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contactsMap/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contactsMap/DuplicateNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contactsMap/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentStream/LabExcerciseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentStream/LabExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentStream/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Excercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BreakCamelCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/BreakCamelCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersistentBugger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/PersistentBugger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SplitStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/SplitStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TheFreewayGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/TheFreewayGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/TicTacToeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YoureASquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeWars/YoureASquare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,52 +55,69 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/Projects/Excercises",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TicTacToeChecker">
-    <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakCamelCase" />
-      <module name="CodeWars" />
+  <component name="RunManager" selected="Application.DifferenceBetweenTwoCollections">
+    <configuration name="BooksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookCollection.BooksTest" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bookCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collatz" />
-      <module name="CodeWars" />
+    <configuration name="DifferenceBetweenTwoCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeWars.DifferenceBetweenTwoCollections" />
+      <module name="Excercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersistentBugger" />
-      <module name="CodeWars" />
+    <configuration name="codeWars.BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeWars.BreakCamelCase" />
+      <module name="Excercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToeChecker" />
-      <module name="CodeWars" />
+    <configuration name="codeWars.PersistentBugger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeWars.PersistentBugger" />
+      <module name="Excercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YoureASquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YoureASquare" />
-      <module name="CodeWars" />
+    <configuration name="codeWars.TicTacToeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeWars.TicTacToeChecker" />
+      <module name="Excercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToeChecker" />
-        <item itemvalue="Application.BreakCamelCase" />
-        <item itemvalue="Application.PersistentBugger" />
-        <item itemvalue="Application.Collatz" />
-        <item itemvalue="Application.YoureASquare" />
+        <item itemvalue="Application.DifferenceBetweenTwoCollections" />
+        <item itemvalue="Application.BooksTest" />
+        <item itemvalue="Application.codeWars.TicTacToeChecker" />
+        <item itemvalue="Application.codeWars.BreakCamelCase" />
+        <item itemvalue="Application.codeWars.PersistentBugger" />
       </list>
     </recent_temporary>
   </component>
@@ -128,54 +167,64 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SplitStrings.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/SplitStrings.java</url>
           <line>20</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SplitStrings.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/SplitStrings.java</url>
           <line>22</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SplitStrings.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/SplitStrings.java</url>
           <line>14</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TheFreewayGame.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/TheFreewayGame.java</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TheFreewayGame.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/TheFreewayGame.java</url>
           <line>4</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Collatz.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/Collatz.java</url>
           <line>10</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PersistentBugger.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/PersistentBugger.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BreakCamelCase.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/BreakCamelCase.java</url>
           <line>10</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TicTacToeChecker.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/TicTacToeChecker.java</url>
           <line>24</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TicTacToeChecker.java</url>
+          <url>file://$PROJECT_DIR$/src/codeWars/TicTacToeChecker.java</url>
           <line>55</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeWars/DifferenceBetweenTwoCollections.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeWars/DifferenceBetweenTwoCollections.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

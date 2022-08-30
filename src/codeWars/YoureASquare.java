@@ -1,3 +1,4 @@
+package codeWars;
 public class YoureASquare {
 
     public static void main(String[] args) {

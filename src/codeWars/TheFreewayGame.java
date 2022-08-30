@@ -1,3 +1,4 @@
+package codeWars;
 public class TheFreewayGame {
 
     public static void main(String[] args) {

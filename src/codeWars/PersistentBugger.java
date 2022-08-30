@@ -1,3 +1,4 @@
+package codeWars;
 public class PersistentBugger {
 
     public static void main(String[] args) {
